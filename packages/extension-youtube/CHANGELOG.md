@@ -1,5 +1,15 @@
 # Change Log
 
+## 3.29.0
+
+### Patch Changes
+
+- Updated dependencies [d26840f]
+- Updated dependencies [b4c5a2d]
+- Updated dependencies [0f63969]
+- Updated dependencies [9acaa65]
+  - @tiptap/core@3.29.0
+
 ## 3.28.0
 
 ### Minor Changes
